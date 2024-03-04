@@ -28,4 +28,4 @@ To run the program, ensure you meet all the listed requirements.
 5. Run the program by tapping the `Run` button.
 
 ## **Demo GIF**  
-Coming Soon
+![Demo GIF](./assets/demo.gif)
